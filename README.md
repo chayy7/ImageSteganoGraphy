@@ -17,6 +17,6 @@ This project uses Least Significant Bit (LSB) steganography, where message bits 
 
 ->Python 3
 
-->stegano library
+->Stegano library
 
 ->PNG images (for lossless encoding)
