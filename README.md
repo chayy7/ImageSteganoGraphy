@@ -14,6 +14,9 @@ A simple yet effective Python project to hide and reveal secret messages inside 
 This project uses Least Significant Bit (LSB) steganography, where message bits are inserted into the least significant bits of an image’s pixel values. Since the changes are so subtle, the human eye can’t detect them — but the message remains intact inside the file.
 
 🛠️ Technologies Used
-Python 3
-stegano library
-PNG images (for lossless encoding)
+
+->Python 3
+
+->stegano library
+
+->PNG images (for lossless encoding)
